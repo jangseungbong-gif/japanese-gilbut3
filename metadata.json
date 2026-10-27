@@ -1,0 +1,6 @@
+{
+  "name": "일본어 듣고 말하기 마스터 (きいて はなす)",
+  "description": "교과서 속 단어, 핵심 표현, 대화문, 가타카나 장음 규칙을 3단계 반복 말하기 체크와 퀴즈로 완벽 암기하는 일본어 학습 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
